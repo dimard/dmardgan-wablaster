@@ -1,4 +1,4 @@
-# 💬 WhatsApp Bulk Message Sender (WABlaster)
+# 💬 Dimardgans Sender (WABlaster)
 
 Aplikasi Desktop yang dibuat menggunakan Python (CustomTkinter) untuk mengirim pesan massal WhatsApp secara otomatis. Dilengkapi dengan dua engine (Node.js & Selenium) yang dapat dipilih sesuai kebutuhan, serta fitur Spintax dan Laporan Pengiriman.
 
@@ -98,7 +98,7 @@ Spintax (*Spinal Syntax*) sangat dianjurkan agar akun Anda aman dan tidak terdet
 
 ---
 
-## © Copyright & Kredit
+## © Copyright 
 
 Aplikasi WhatsApp Automation ini dikembangkan oleh:
 
